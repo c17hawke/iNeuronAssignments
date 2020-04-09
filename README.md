@@ -1,5 +1,6 @@
 # iNeuronAssignments
-Repository related to iNeuron assignments only
+Repository related to iNeuron assignments only.
+
 Click on the links to view it on **nbViewer**- 
 ## Python basics  - 
 * [Assignment 1](https://nbviewer.jupyter.org/github/c17hawke/iNeuronAssignments/blob/master/Python%20basics/Assignment_1DONE.ipynb)
